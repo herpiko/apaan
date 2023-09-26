@@ -1,2 +1,5 @@
 hello baba, met pagi
 dah mandi dan pup belom
+foo
+bar
+boo
